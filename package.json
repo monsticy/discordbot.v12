@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Discord Bot.v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Takei-san",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "jshint": "^2.13.3"
+  }
+}
